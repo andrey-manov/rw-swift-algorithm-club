@@ -6,8 +6,6 @@
 //  Copyright © 2017 Andrey Manov. All rights reserved.
 //
 
-//: Playground - noun: a place where people can play
-
 import UIKit
 
 class MergeSort {
